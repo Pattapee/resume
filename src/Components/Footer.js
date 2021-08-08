@@ -1,17 +1,17 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class Footer extends Component {
-  render() {
-
-    if (this.props.data) {
-      var networks = this.props.data.social.map(function (network) {
-        return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+const Footer = (props) => {
+    
+    let networks = ''
+  
+    if (props.data) {
+      networks = props.data.social.map(function (network) {
+        return <li key={network.name}><a href={network.url} target="_blank"><i className={network.className}></i></a></li>
       })
     }
 
     return (
       <footer>
-
         <div className="row">
           <div className="twelve columns">
             <ul className="social-links">
@@ -19,7 +19,7 @@ class Footer extends Component {
             </ul>
 
             <ul className="copyright">
-              <li>Template Website &copy; Copyright 2017 <a href="https://github.com/tbakerx" target="_blank">Tim Baker</a></li>
+              <li>Thank you for Website Template &copy; Copyright 2017 <a href="https://github.com/tbakerx"  without rel="noopener noreferrer" target="_blank">Tim Baker</a></li>
             </ul>
 
           </div>
@@ -28,6 +28,5 @@ class Footer extends Component {
       </footer>
     );
   }
-}
 
 export default Footer;
