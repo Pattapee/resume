@@ -2,9 +2,9 @@
   "main": {
     "name": "Pattapee Singha",
     "occupation": "Computer Technical Officer in Ombudsman Thailand",
-    "description": "Welcome to my world",
+    "description": "",
     "image": "profilepic.jpg",
-    "bio": "My name is Pattapee Singha nickname 'GA', I'm 28 year old, birthday 28 July 1993, My interest about coding javascript and My weakness I'm think is English Language, My Dream I'm very determined to go abroad for learn they way of life.",
+    "bio": "My name is Pattapee Singha (GA), 28 July 1993, I'm interested in coding javascript, My weakness is English Language",
     "email": "pattapees@gmail.com",
     "phone": "+66-82-953-3091",
     "address": {
@@ -47,7 +47,7 @@
         "description": "Major: Computer Science"
       },
       {
-        "school": "SIAM BUSINCESS ADMINISTRATION TECHNOLOGICAL COLLEGE (SBAC)",
+        "school": "SIAM BUSINESS ADMINISTRATION TECHNOLOGICAL COLLEGE (SBAC)",
         "degree": "Vocational Certificate",
         "graduated": "March 2011",
         "description": "Major: Computer Business"
@@ -58,19 +58,19 @@
         "company": "OMBUDSMAN THAILAND",
         "title": "Computer Technical Officer",
         "years": "September 2019 - Present",
-        "description": "I'm Responsible about Develop Web Application and Web Service utilizing Nodejs And React, Query Data MSSQL, Support Administrator, Coordinated Outsoure proof problem in application"
+        "description": "I'm responsible about Develop Web Application and Web Service utilizing Nodejs And React, Query Data MSSQL, Support Administrator, Coordinated Outsoure proof problem in application"
       },
       {
         "company": "PHRAMONGKUTKLAO COLLEGE OF MEDICINE",
         "title": "Private First Class",
         "years": "May 2018 - September 2019",
-        "description": "I'm Responsible about document management support supply and services section lab for studies, Developer e-learning utilizing CMS moodle"
+        "description": "I'm responsible about document management support supply and services section lab for studies, Developer e-learning utilizing CMS moodle"
       },
       {
         "company": "FORT SURASI HOSPITAL",
         "title": "Private First Class",
         "years": "April 2017 - May 2018",
-        "description": "I'm Responsible for Administrator Website, support computer teachinal, Query data mysql and fixbug or develop new feature on web application utilizing Nodejs, Wordpress"
+        "description": "I'm responsible for Administrator Website, support computer teachinal, Query data mysql and fixbug or develop new feature on web application utilizing Nodejs, Wordpress"
       },
       {
         "company": "RIVERPARK CONSULTANT",
