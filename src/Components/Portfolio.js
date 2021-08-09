@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-const Header = (props) => {
+const Portfolio = (props) => {
     let projects = ''
     let projectImage = ''
     if (props.data) {

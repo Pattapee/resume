@@ -1,16 +1,16 @@
 {
   "main": {
     "name": "Pattapee Singha",
-    "occupation": "Computer Technical Officer in Ombudsman Thailand",
+    "occupation": "Computer Technical Officer in Office of The Ombudsman Thailand",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "My name is Pattapee Singha (GA), 28 July 1993, I'm interested in coding javascript, My weakness is English Language",
+    "bio": "My name is Pattapee Singha (GA), 28 July 1993, I'm interested in coding javascript, My weakness is English Language skills",
     "email": "pattapees@gmail.com",
     "phone": "+66-82-953-3091",
     "address": {
       "street": "Silk village Home",
       "city": "Bangkok",
-      "state": "Saimai",
+      "state": "Saimai road",
       "zip": "10220"
     },
     "website": "http://103.253.72.78:8080/",
@@ -55,7 +55,7 @@
     ],
     "work": [    
       {
-        "company": "OMBUDSMAN THAILAND",
+        "company": " Office of The Ombudsman Thailand",
         "title": "Computer Technical Officer",
         "years": "September 2019 - Present",
         "description": "I'm responsible about Develop Web Application and Web Service utilizing Nodejs And React, Query Data MSSQL, Support Administrator, Coordinated Outsoure proof problem in application"
@@ -70,7 +70,7 @@
         "company": "FORT SURASI HOSPITAL",
         "title": "Private First Class",
         "years": "April 2017 - May 2018",
-        "description": "I'm responsible for Administrator Website, support computer teachinal, Query data mysql and fixbug or develop new feature on web application utilizing Nodejs, Wordpress"
+        "description": "I'm responsible for Administrator Website, support computer technical, Query data mysql and fixbug or develop new feature on web application utilizing Nodejs, Wordpress"
       },
       {
         "company": "RIVERPARK CONSULTANT",

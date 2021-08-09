@@ -32,8 +32,7 @@ const About = (props) => {
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
-            <p>{bio}</p>
-            <p>My Dream I'm very determined to go abroad for learning they way of life.</p>
+            <p>{bio}. <br></br>My Dream I'm very determined to go abroad for learning they way of life. </p>
             <div className="row">
               <div className="columns contact-details">
                 <h2>Contact Details</h2>
